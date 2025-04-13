@@ -1,0 +1,79 @@
+{
+    "menu": [
+        {
+            "id": "4404999d-10e3-431c-baf1-8eeb08c9d803",
+            "title": "Home",
+            "content": "This is the introduction to the document.",
+            "url": "/home",
+            "icon": "home"
+        },
+        {
+            "title": "Services",
+            "content": "This is the content of chapter 1.",
+            "url": "/services"
+        },
+        {
+            "title": "Insights",
+            "content": "This is the content of chapter 2.",
+            "url": "/insights"
+        },
+        {
+            "title": "About us",
+            "content": "This is the content of chapter 3.",
+            "url": "/about"
+        }
+    ],
+    "content": [
+        {
+            "title": "Introduction",
+            "content": "This is the introduction to the document."
+        },
+        {
+            "title": "Chapter 1",
+            "content": "This is the content of chapter 1."
+        },
+        {
+            "title": "Chapter 2",
+            "content": "This is the content of chapter 2."
+        },
+        {
+            "title": "Chapter 3",
+            "content": "This is the content of chapter 3."
+        }
+    ],
+    "news": [
+        {
+            "title": "Introduction",
+            "content": "This is the introduction to the document."
+        },
+        {
+            "title": "Chapter 1",
+            "content": "This is the content of chapter 1."
+        },
+        {
+            "title": "Chapter 2",
+            "content": "This is the content of chapter 2."
+        }
+    ],  
+    "articles": [
+        {
+            "title": "Article 1",
+            "content": "This is the content of article 1."
+        },
+        {
+            "title": "Article 2",
+            "content": "This is the content of article 2."
+        }
+    ],
+    "blogs": [
+        {
+            "title": "Blog 1",
+            "content": "This is the content of blog 1."
+        },
+        {
+            "title": "Blog 2",
+            "content": "This is the content of blog 2."
+        }
+    ]
+
+}
